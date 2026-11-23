@@ -61,10 +61,13 @@
                      "categoria":  "Aplicativos",
                      "tipo":  "portatil",
                      "executavel":  "RateioCustoPessoal.exe",
-                     "versao":  "2.2.4",
+                     "versao":  "2.2.6",
                      "download":  {
-                                      "x64":  ""
-                                  }
+                                      "x64":  "https://github.com/diegodrumm/rateio-custo-pessoal-releases/releases/download/v2.2.6/RateioCustoPessoal-2.2.6-x64.exe"
+                                  },
+                     "sha256":  {
+                                    "x64":  "AA8C9F45CC10B15FC46BFE9BD9CDFAAFBB8EBD99CC216F1D8BBF4D5C46EACEBC"
+                                }
                  },
                  {
                      "id":  "seguros-spa",
