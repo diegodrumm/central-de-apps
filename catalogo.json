@@ -2,8 +2,8 @@
     "titulo":  "Central de Apps",
     "central":  {
                     "versao":  "1.0.0",
-                    "download":  "arquivos/central/1.0.0/CentralDeApps.exe",
-                    "sha256":  "",
+                    "download":  "https://github.com/diegodrumm/central-de-apps/releases/download/central-v1.0.0/CentralDeApps.exe",
+                    "sha256":  "985562D029DC0B2C79CA3E4B123EA3DB2F65468764302BC6C3C0682810B44BD4",
                     "notas":  "Primeira versão."
                 },
     "apps":  [
