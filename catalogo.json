@@ -46,9 +46,13 @@
                      "executavel":  "OrcamentoReligiosa.exe",
                      "versao":  "0.2.28",
                      "download":  {
-                                      "x64":  "",
-                                      "arm64":  ""
-                                  }
+                                      "x64":  "https://github.com/diegodrumm/orcamento-religiosa-releases/releases/download/v0.2.28/OrcamentoReligiosa-0.2.28-x64-portatil.exe",
+                                      "arm64":  "https://github.com/diegodrumm/orcamento-religiosa-releases/releases/download/v0.2.28/OrcamentoReligiosa-0.2.28-arm64-portatil.exe"
+                                  },
+                     "sha256":  {
+                                    "x64":  "9D736FD4616975D124DA21F3E451010B52E189A8BD72F9BE69845719F319B66F",
+                                    "arm64":  "F66186174B64D189DE693B8B4DE7FFEBF5656B9F5F6165B4850365506E9E38DA"
+                                }
                  },
                  {
                      "id":  "rateio-custo-pessoal",
