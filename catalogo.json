@@ -78,8 +78,12 @@
                      "executavel":  "LancamentosSegurosSPA.exe",
                      "versao":  "0.1.0",
                      "download":  {
-                                      "x64":  ""
-                                  }
+                                      "x64":  "https://github.com/diegodrumm/central-de-apps/releases/download/seguros-spa-v0.1.0/seguros-spa-0.1.0-x64.exe"
+                                  },
+                     "sha256":  {
+                                    "x64":  "4AC70FBDDE34F6E5C2ED6FB49D5BD99209CB73BD2B9207C59733362F43E92FA2"
+                                },
+                     "notas":  "Versao 0.1.0:\nPrimeira versão na Central."
                  },
                  {
                      "id":  "ext-dracma",
