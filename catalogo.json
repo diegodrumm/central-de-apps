@@ -103,8 +103,12 @@
                      "tipo":  "extensao",
                      "versao":  "1.3.0",
                      "download":  {
-                                      "x64":  ""
-                                  }
+                                      "x64":  "https://github.com/diegodrumm/central-de-apps/releases/download/ext-acms-emprestimos-v1.3.0/ext-acms-emprestimos-1.3.0-x64.zip"
+                                  },
+                     "sha256":  {
+                                    "x64":  "6DE8F8A35BB63CA1FE015305E31F776186BCF7E80C8E94979CAD89B9EFFAD865"
+                                },
+                     "notas":  "Versao 1.3.0:\nPrimeira versão na Central."
                  }
              ]
 }
