@@ -1,0 +1,99 @@
+{
+    "titulo":  "Central de Apps",
+    "central":  {
+                    "versao":  "1.0.0",
+                    "download":  "arquivos/central/1.0.0/CentralDeApps.exe",
+                    "sha256":  "",
+                    "notas":  "Primeira versão."
+                },
+    "apps":  [
+                 {
+                     "id":  "bancarias-cartoes",
+                     "nome":  "Bancárias e Cartões",
+                     "descricao":  "Gera lote e reconciliação do AASI a partir de extratos OFX.",
+                     "categoria":  "Aplicativos",
+                     "tipo":  "portatil",
+                     "executavel":  "LancamentosBancarios.exe",
+                     "emDesenvolvimento":  true,
+                     "versao":  "1.1.2",
+                     "download":  {
+                                      "x64":  ""
+                                  }
+                 },
+                 {
+                     "id":  "dracma-acms",
+                     "nome":  "Despesas CC Igrejas – Dracma x ACMS",
+                     "descricao":  "Leva as despesas das igrejas do Dracma para o ACMS. Atualiza-se sozinho pelo GitHub.",
+                     "categoria":  "Aplicativos",
+                     "tipo":  "zip",
+                     "executavel":  "DracmaAcms.exe",
+                     "versao":  "1.10.2",
+                     "download":  {
+                                      "x64":  "https://github.com/diegodrumm/dracma-acms-releases/releases/download/v1.10.2/DracmaAcms-win-x64.zip",
+                                      "arm64":  "https://github.com/diegodrumm/dracma-acms-releases/releases/download/v1.10.2/DracmaAcms-win-arm64.zip"
+                                  },
+                     "sha256":  {
+                                    "x64":  "4E017E21A40A8C10F1E2C26C05DF58B8C9BBD2F4800734B03B2F75DF0DA2B7F0",
+                                    "arm64":  "4E017E21A40A8C10F1E2C26C05DF58B8C9BBD2F4800734B03B2F75DF0DA2B7F0"
+                                }
+                 },
+                 {
+                     "id":  "orcamento-religiosa",
+                     "nome":  "Orçamento Religiosa",
+                     "descricao":  "Orçamento de receitas e despesas da Religiosa.",
+                     "categoria":  "Aplicativos",
+                     "tipo":  "portatil",
+                     "executavel":  "OrcamentoReligiosa.exe",
+                     "versao":  "0.2.28",
+                     "download":  {
+                                      "x64":  "",
+                                      "arm64":  ""
+                                  }
+                 },
+                 {
+                     "id":  "rateio-custo-pessoal",
+                     "nome":  "Rateio Custo Pessoal",
+                     "descricao":  "Rateio do custo de pessoal.",
+                     "categoria":  "Aplicativos",
+                     "tipo":  "portatil",
+                     "executavel":  "RateioCustoPessoal.exe",
+                     "versao":  "2.2.4",
+                     "download":  {
+                                      "x64":  ""
+                                  }
+                 },
+                 {
+                     "id":  "seguros-spa",
+                     "nome":  "Seguros SPA",
+                     "descricao":  "Gera os lançamentos contábeis (CSV para o AASI) dos seguros SPA a partir do relatório Parcela Mensal.",
+                     "categoria":  "Aplicativos",
+                     "tipo":  "portatil",
+                     "executavel":  "LancamentosSegurosSPA.exe",
+                     "versao":  "0.1.0",
+                     "download":  {
+                                      "x64":  ""
+                                  }
+                 },
+                 {
+                     "id":  "ext-dracma",
+                     "nome":  "Dracma",
+                     "descricao":  "Extensão do Chrome para o Dracma – Religiosa. Instale pela Chrome Web Store: o Chrome a mantém atualizada.",
+                     "categoria":  "Extensões",
+                     "icone":  "🧩",
+                     "tipo":  "loja",
+                     "url":  "https://chromewebstore.google.com/detail/dracma-religiosa/nekempnnggmhihjfapojkkphfnhmngjf"
+                 },
+                 {
+                     "id":  "ext-acms-emprestimos",
+                     "nome":  "ACMS",
+                     "descricao":  "Extensão do Chrome para os empréstimos por igreja no ACMS.",
+                     "categoria":  "Extensões",
+                     "icone":  "🧩",
+                     "tipo":  "extensao",
+                     "versao":  "1.3.0",
+                     "download":  {
+                                      "x64":  ""
+                                  }
+                 }
+             ]
+}
